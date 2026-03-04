@@ -1,4 +1,4 @@
-# Yummy Pizza Agent — AI Ordering Chatbot
+# Yummy Pizza AI Agent
 
 An autonomous pizza ordering chatbot built with LangChain, Streamlit, and LLM.
 
